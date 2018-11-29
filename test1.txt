@@ -1,10 +1,1 @@
- Volume in drive C is Local Disk
- Volume Serial Number is 82A6-EE0C
-
- Directory of C:\Users\Qazaz Nirza\Desktop\myProject
-
-30/11/2018  00:35    <DIR>          .
-30/11/2018  00:35    <DIR>          ..
-30/11/2018  00:35                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  18,416,521,216 bytes free
+change 1
